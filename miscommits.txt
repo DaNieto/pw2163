@@ -1,0 +1,11 @@
+commit 841a0a86877ad29f8da10e0679f0aa65e4faace8
+Author: DaNieto <diegonietomurillo@gmail.com>
+Date:   Fri Sep 2 11:31:24 2016 -0600
+
+    cambio en mi readme. txt
+
+commit 55d83a26e7ab598bfb3d2c390a3d6c214e7d5eb4
+Author: DaNieto <diegonietomurillo@gmail.com>
+Date:   Tue Aug 30 11:56:07 2016 -0600
+
+    commit inicial con readme.txt
