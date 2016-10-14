@@ -1,0 +1,72 @@
+article
+{
+	background: greenyellow;
+	border: 2px solid black;
+	color: black;
+	margin: 20px 5px; /*margen exterior*/
+	padding: 15px; /*margen interior*/
+	text-align: center; /*alineasion de texto*/
+	-moz-transition:all 5s linear;
+	-ms-transition:all 5s linear;
+	-o-transition:all 5s linear;
+	-webkit-transition:all 5s linear;
+	width: 400px; /*ancho de la caja*/
+
+ }
+article p
+{
+	font: 30px Tahoma; /*tipo de letra*/
+	font-weight: bold; /*negritas*/
+	width: 100%; /*ancho del texto*/
+}
+/*article:hover /*mouse ensima*/
+/*{
+	height: 400px; /*altura*/
+/*	width: 800px; /*ancho*/
+/*}*/
+/*article:hover
+{
+	background: black;
+	color: greenyellow;
+	-moz-transform: translate(150px, 300px);
+	-ms-transform: translate(150px, 300px);
+	-o-transform: translate(150px, 300px);
+	-webkit-transform: translate(150px, 300px);
+	width: 400px;
+}*/
+/*article:hover
+{
+	background: black;
+	color:greenyellow;
+	-moz-transform: rotate(180deg);
+	-ms-transform: rotate(180deg);
+	-o-transform: rotate(180deg);
+	-webkit-transform: rotate(180deg);
+}*/
+/*article:hover
+{
+	background: black;
+	color:greenyellow;
+	-moz-transform: scale(1.5);
+	-ms-transform: scale(1.5);
+	-o-transform: scale(1.5);
+	-webkit-transform: scale(1.5);
+}*/
+/*article:hover
+{
+	background: black;
+	color:greenyellow;
+	-moz-transform: skew(10deg, 10deg);
+	-ms-transform: skew(10deg, 10deg);
+	-o-transform: skew(10deg, 10deg);
+	-webkit-transform: skew(10deg, 10deg);
+}*/
+article:hover
+{
+	background: black;
+	color:greenyellow;
+	-moz-transform: skew(10deg, 10deg);
+	-ms-transform: skew(10deg, 10deg);
+	-o-transform: skew(10deg, 10deg);
+	-webkit-transform: skew(10deg, 10deg);
+}
