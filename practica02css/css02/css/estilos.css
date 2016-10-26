@@ -38,6 +38,10 @@ header nav ul li
 	margin-top: 20px;
 	margin-left: 25px;
 }
+#mailinglist
+{
+	padding-top: 60px;
+}
 #paint
 {
 	float: right;
@@ -58,6 +62,19 @@ header nav ul li
 {
 	width: 60%;
 }
+#secc01art02
+{
+	width: 30%;
+}
+#secc01art02 ul
+{
+	list-style: none;
+}
+#secc01art02 ul li:before
+{
+	content: "· ";
+	color: #FF0099;
+}
 #segundaseccion article
 {
   padding-right: 180px;
@@ -72,6 +89,27 @@ header nav ul li
 	display: inline-block;
 	vertical-align: top;
 	width: 22%;
+}
+#terceraseccion article img
+{
+	vertical-align: middle;
+}
+.colorazul
+{
+	color: #16BEF8;
+}
+.colorrosa
+{
+	color: #F4A3C6;
+}
+.colorverde
+{
+	color: #A6DE47;
+}
+.colorazul,.colorrosa,.colorverde
+{
+	font-size: 1.2em;
+	font-weight: bold;
 }
 .numerotelefono
 {
